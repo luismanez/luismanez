@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[./luis-profile.png](My profile PPT. Luis Manez - MS MVP)
+![My profile PPT. Luis Manez - MS MVP](./luis-profile.png)
