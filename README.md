@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Mañez</h1>
-<h3 align="center">Azure AI (former M365 Development) MVP. More than 20 years of experience working with Microsoft Technologies. MS Certified in Azure AI, Developing Azure and SharePoint MCPD. Passionate about technology, blogger, technical writer and MS community active member.</h3>
+<h3 align="center">Microsoft Foundry (former M365 Development) MVP. More than 20 years of experience working with Microsoft Technologies. MS Certified in Azure AI, Developing Azure and SharePoint MCPD. Passionate about technology, blogger, technical writer and MS community active member.</h3>
 
 <p align="left"> <a href="https://twitter.com/luismanez" target="blank"><img src="https://img.shields.io/twitter/follow/luismanez?logo=twitter&style=for-the-badge" alt="luismanez" /></a> </p>
 
